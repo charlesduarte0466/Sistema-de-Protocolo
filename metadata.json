@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Protocolo Único",
+  "description": "Sistema de gestão de processos com numeração temporal única, controle de acesso por perfis e modelos de documentos.",
+  "requestFramePermissions": []
+}
